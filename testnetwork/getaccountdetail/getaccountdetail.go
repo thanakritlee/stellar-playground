@@ -5,7 +5,7 @@ import (
 	"log"
 
 	"github.com/stellar/go/clients/horizon"
-	"github.com/thanakritlee/stellar-playground/createtestaccount"
+	"github.com/thanakritlee/stellar-playground/testnetwork/createtestaccount"
 )
 
 func main() {

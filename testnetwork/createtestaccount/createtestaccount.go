@@ -7,7 +7,7 @@ import (
 	"net/http"
 
 	"github.com/stellar/go/keypair"
-	"github.com/thanakritlee/stellar-playground/genseed"
+	"github.com/thanakritlee/stellar-playground/testnetwork/genseed"
 )
 
 func main() {
